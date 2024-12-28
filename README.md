@@ -1,4 +1,16 @@
-# Dunk Verse
+# DunkVerse
+
+**DunkVerse** is a blockchain-powered sports engagement platform that combines AI-generated quizzes, NFT auctions, GameFi, and SocialFi to create an immersive and interactive experience for sports fans.
+
+Integrated **Flow Blockchain** to:
+- Mint AI-generated **NBA TopShots NFTs** as rewards for quiz winners and auction participants.
+- Enable seamless and cost-effective NFT transactions using Flow’s Cadence and Solidity smart contracts.
+- Utilize Flow’s scalable infrastructure to handle real-time quiz participation and leaderboard tracking efficiently.
+
+The integration was done by:
+- Writing contracts for minting, transferring, and managing NFTs.
+- Leveraging Flow’s API and SDK for seamless user onboarding and NFT interactions.
+- Deploying contracts on the Flow Testnet and connecting them to the frontend.
 
 ## Features 🚀
 
@@ -123,6 +135,12 @@
 - Expanding the AI-generated quiz system to cover multiple sports and leagues.
 - Enhanced UI/UX for seamless user onboarding.
 
+## Team Description
+- **Jeremy**: Frontend Developer ([Telegram](https://t.me/@jeremythewizard))
+- **Juan**: Designer ([Telegram](https://t.me/@jmespejel))
+- **Amaan**: Contract Developer ([Telegram](https://t.me/@amaan029))
+
+Our team combines expertise in blockchain, smart contracts, and frontend development to deliver a robust and engaging platform for sports fans.
 ## Connect. Play. Win.
 
 Be the Biggest SportsFi Dapp, combining Sports, SocialFi, NFTs, GameFi, AI, DeFi, and polymarket prediction all inside Mobile Friendly Mode.
