@@ -37,10 +37,10 @@ The integration was done by:
 - Real-time leaderboard displays top-performing players in live quizzes.
 - View the average market value of NFTs on the platform.
 
-## Deployed Contracts
+## Deployed and Verified Contracts
 
-| Contract Name        | Description                                   | EVM on Flow Testnet Deployed Contract Links                                            |
-|----------------------|-----------------------------------------------|-----------------------------------------------------------------------------------|
+| Contract Name        | Description                                   | EVM on Flow Testnet Deployed and Verified Contract Links                           |
+|----------------------|-----------------------------------------------|------------------------------------------------------------------------------------|
 | `DunkVerse.sol`      | ERC-20 token contract for $FTO.               | https://evm-testnet.flowscan.io/address/0xaD488Cd332034434240828F987d6E6B991D48125 |
 | `BettingPool.sol`    | Handles GameFi betting logic.                 | https://evm-testnet.flowscan.io/address/0x7c3c1894704C2eFA041Aca6975053545F500BdE0 |
 | `AIGeneratedNFT.sol` | Manages NFT generation, supply, and transfers.| https://evm-testnet.flowscan.io/address/0xa35Bd929a3554bf07908e3131a7Df305849Cd25F |
