@@ -136,9 +136,9 @@ The integration was done by:
 - Enhanced UI/UX for seamless user onboarding.
 
 ## Team Description
-- **Jeremy**: Frontend Developer ([Telegram](https://t.me/@jeremythewizard))
-- **Juan**: Designer ([Telegram](https://t.me/@jmespejel))
-- **Amaan**: Contract Developer ([Telegram](https://t.me/@amaan029))
+- **Jeremy**: Frontend Developer ([Telegram](https://t.me/jeremythewizard))
+- **Juan**: Designer ([Telegram](https://t.me/jmespejel))
+- **Amaan**: Contract Developer ([Telegram](https://t.me/amaan029))
 
 Our team combines expertise in blockchain, smart contracts, and frontend development to deliver a robust and engaging platform for sports fans.
 ## Connect. Play. Win.
