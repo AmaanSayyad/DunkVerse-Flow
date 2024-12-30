@@ -118,3 +118,11 @@ Our team combines expertise in blockchain, smart contracts, and frontend develop
 ## Connect. Play. Win.
 
 Be the Biggest SportsFi Dapp, combining Sports, SocialFi, NFTs, GameFi, AI, DeFi, and polymarket prediction all inside Mobile Friendly Mode.
+
+## PitchDeck
+
+https://www.figma.com/slides/DEidFjwAX8uV7ms7IE6IX2/DunkVerse---Flow?t=CyJrssFxhVtWPUHL-1
+
+## Live Mobile IOS web link
+
+https://dunk-verse-flow.vercel.app/
